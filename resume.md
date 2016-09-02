@@ -1,19 +1,11 @@
 Álvaro Castellano Vela
 ============
 
-----
-
->  I am a software engineer hungry for new challenges when working in a project, I love projects that allow me to learn a new language or methodology, specially when it is a challenging project. I do not hesitate to dive into the task, and apply the new knowledge gathered from learning the languages, technologies and methodologies to ensure the highest success of the project.
-
-----
-
 Education
 ---------
 
 2008-2013
-:   **Computer engineering** Universitat Jaume I (Castellón de la Plana)
-
-    5 years carrer.
+:   **Master in Computer Science Engineering** Universitat Jaume I, Castellón de la Plana - Spain
 
     *Final project title: Wireless presence control device for students.*
 
@@ -23,18 +15,17 @@ Experience
 2015 - Present
 :   **DevOps at MicromaxStudio S.L.**
 
-    I have been working in server migrations to the cloud, maintainance of company servers, and developing infrastructure tools.
+     I managed the maintainance of the company's backend servers, their migration to cloud infrastructure, and developing infrastructure tools support them.
 
-     - **Server Automatized Instalation**: Autamic server instalation using *Ansible*, the Ansible scripts also keep the servers updated. Git project deploying using Ansible.
+     - **Automated Server Deployment**: *Ansible* was used to deploy new server instances in the backend, as well as keeping the existing ones up-to-date.
+     Git was used to manage all the deployment files organized.
 
-     - **Server Monitoring**: The company servers are monitoried using *Icinga 2*.
-
-     In addition, I am usually on call.
+     - **Server Monitoring**: The company servers were monitoried using *Icinga 2*.
 
 2013 - Present
 :   **Developer at Inhedit Smart Experiences S.L.**
 
-     I have developed smart devices which produces sensorial stimulation (light, fragrances, heat, cold, etc) while a video is playing. Those devices are supposed to produce new sensations and emotions on the clients in marketing activities.
+     I developed smart devices which produce sensorial stimulation (light, fragrances, heat & cold, etc) during a marketing experience. These devices induce new sensations and emotions on the clients. Our devices start to play a video when the client enters into a room. According with a previous configuration, during the video playback the room changes its backgorund color using leds lamps. The room also have fragance triggers which immerse the client inside the experience. 
 
       - **Web Plataform** which maintains all company gadgets connected, the plataform is written in PHP using  *Zend Framework*.
 
