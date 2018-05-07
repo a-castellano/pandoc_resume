@@ -12,7 +12,18 @@ Education
 Experience
 ----------
 
-2015 - Present
+Nov 2006 - Present
+:   **IT System Administrator at Onestic S.L.*
+
+     I work at IT department, maintaining and deploying Magento (1 & 2) servers. There are around 400 production servers from around 40 different clients. E-commerce support is critical so we must guarantee 99% SLA.
+
+     - **Automated Server Deployment**: *SaltStack* is used to deploy and maintain our stack configuration (with agile support of client needed changes) over all infrastructure.
+
+     - Improve our SaltStack states and pillar in order to improve our projects management and make them efficient and easier to mantain.
+
+     - **Tegnologies and Languages used*: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
+
+Oct 2015 - Nov 2006
 :   **DevOps at MicromaxStudio S.L.**
 
      I managed the maintainance of the company's backend servers, their migration to cloud infrastructure, and developing infrastructure tools support them.
@@ -22,7 +33,7 @@ Experience
 
      - **Server Monitoring**: The company servers were monitoried using *Icinga 2*.
 
-2013 - Present
+May 2013 - Nov 2016
 :   **Developer at Inhedit Smart Experiences S.L.**
 
      I developed smart devices which produce sensorial stimulation (light, fragrances, heat & cold, etc) during a marketing experience. These devices induce new sensations and emotions on the clients. Our devices start to play a video when the client enters into a room. According with a previous configuration, during the video playback the room changes its backgorund color using leds lamps. The room also have fragance triggers which immerse the client inside the experience. 
@@ -31,7 +42,7 @@ Experience
 
       - **Remote video player**: Remote video player which loads videos from the company web plataform, these players also activate light and relays to add more sensations during the video playback.
 
-2013 - 2015
+May 2013 - Oct 2015
 :   **IT System Administrator at E-commfactory S.L.**
 
      I was working in this company as system administrator, migrate websites ans web apps from old server to cloud server, improving security of the new machines. I also handled company’s infrastructure cloud, etc.
@@ -45,7 +56,10 @@ Own projects
 :   In my free time I work in my own projects:
 
     * **Formula Live Results** - Mobile application for *Android* and *iOS* wirtten using *Ionic Framework* wich allowed you to watch live resuls of Formula One races performed in 2015 - [Google Play](https://play.google.com/store/apps/details?id=com.ionicframework.f1liveresultsapp692241)
-    * There are other projects but they are unfinished. In these projects I am using *C++ 11*, *Python*, *PHP (Laravel 5)*, and *Go*.
+    * [VPN Server Managed (not finished)](https://github.com/a-castellano/vpn_per_hours_orchestrator_VPN_SERVER_MANAGER). The aim of this project was to provide VPN fenix servers accros many countries and SAAS providers. Clients were supposed to bay only by the hours that server were up and running. I stopped this development when Netfilx announced that whey where going to ban VPN connection from different countries. I used *C++ 11 (Backend)*, *Python(Scripts)*, *Laravel 5 (frontend)*.
+    * [nextcloudbackupsawss3](https://github.com/a-castellano/nextcloud_backups_aws_s3). Utility to make backups of Nextcloud and store them into S3 bucket, written in Bash with unit testing.
+    * [toggl-jira-work-logger](https://github.com/a-castellano/toggl-jira-work-logger). Utility to log work into Jira issues using Toggl recorded time entries. Written in Perl.
+    * [Daedalus project (in progress)](https://github.com/daedalusproject). Daedalus project aims to be a powerfull in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
 
 Programming Languages
 --------------------
@@ -68,28 +82,28 @@ Methodologies
 :   **Object Orientied Programming/Design**.
 
 Agile
-:   **Scrum**, **FDD**.
-
-Unit Test
-:   **Boost Test**.
-
-Libraries
-:   **Boost**.
+:   **Scrum**, **FDD**, TDD
 
 Build
 :   **Make** and **CMake**.
 
 VCS
-:   **Git** and **Mercurial**.
+:   ******Git********.
 
 WebServer
 :   **Apache2**, and **Nginx**.
 
+Balancers
+:   **Haproxy**.
+
+Config Deployer
+:   **SaltStack** and **Andsible**.
+
 Deployment
-:   **Ansible**.
+:   **Ansible** and **Capistrano**.
 
 Monitoring
-:   **Monit** and **Icinga 2**
+:   **Monit**, **Icinga 2** and **Sensu**.
 
 
 Languages
