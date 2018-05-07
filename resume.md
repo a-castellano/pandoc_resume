@@ -19,7 +19,7 @@ Nov 2006 - Present
 
      - **Automated Server Deployment**: *SaltStack* is used to deploy and maintain our stack configuration (with agile support of client needed changes) over all infrastructure.
 
-     - **Improve our tool**. Improve SaltStack states and pillar in order to improve our projects management and make them efficient and easier to mantain.
+     - **Improve our tool**. I've contributed to improve SaltStack states and pillar in order to make our projects management more efficient and easier to mantain.
 
      - **Tegnologies and Languages used**: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
 
