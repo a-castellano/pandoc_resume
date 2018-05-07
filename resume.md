@@ -77,7 +77,7 @@ Programming Languages
       I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalus cores is been written entirely using **Perl Catalyst**.
 
 
-:   Basic knowledge of **Angular JS**, **C++ 11**, **Go**, **Javascript**
+:   Basic knowledge of **C++ 11**, **Javascript**
 
 Technical Skills
 ----------------
