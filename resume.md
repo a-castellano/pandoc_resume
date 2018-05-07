@@ -13,15 +13,15 @@ Experience
 ----------
 
 Nov 2006 - Present
-:   **IT System Administrator at Onestic S.L.*
+:   **IT System Administrator at Onestic S.L.**
 
      I work at IT department, maintaining and deploying Magento (1 & 2) servers. There are around 400 production servers from around 40 different clients. E-commerce support is critical so we must guarantee 99% SLA.
 
      - **Automated Server Deployment**: *SaltStack* is used to deploy and maintain our stack configuration (with agile support of client needed changes) over all infrastructure.
 
-     - Improve our SaltStack states and pillar in order to improve our projects management and make them efficient and easier to mantain.
+     - **Improve our tool**. Improve SaltStack states and pillar in order to improve our projects management and make them efficient and easier to mantain.
 
-     - **Tegnologies and Languages used*: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
+     - **Tegnologies and Languages used**: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
 
 Oct 2015 - Nov 2006
 :   **DevOps at MicromaxStudio S.L.**
@@ -64,14 +64,18 @@ Own projects
 Programming Languages
 --------------------
 
-:   **Python:** 5 years exeprience.
+:   **Python:** 7 years exeprience.
      I use Python for almost all mainteinance scripts and when I need to write scripts quickly.
 
 :   **Bash scripting:**
      In many cases I have written bash sripts for monitoring special things such as backups, e-mail monitoring, website changes (before knowing about Icinga),
 
-:   **PHP 5:** 3 years experience
+:   **PHP:** 3 years experience
       I have used Zend Framework at work. I have used CodeIgniter 2 and Laravel 5 in my own projects.
+
+:   **Perl 5:** 6 months experience.
+      I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalus cores is been written entirely using **Perl Catalyst**.
+
 
 :   Basic knowledge of **Angular JS**, **C++ 11**, **Go**, **Javascript**
 
@@ -82,13 +86,13 @@ Methodologies
 :   **Object Orientied Programming/Design**.
 
 Agile
-:   **Scrum**, **FDD**, TDD
+:   **Scrum**, **FDD**, **TDD**
 
 Build
 :   **Make** and **CMake**.
 
 VCS
-:   ******Git********.
+:   **Git**.
 
 WebServer
 :   **Apache2**, and **Nginx**.
