@@ -1,14 +1,6 @@
 Álvaro Castellano Vela
 ============
 
-Education
----------
-
-2008-2013
-:   **Master in Computer Science Engineering** Universitat Jaume I, Castellón de la Plana - Spain
-
-    *Final project title: Wireless presence control device for students.*
-
 Experience
 ----------
 
@@ -28,7 +20,7 @@ Oct 2015 - Nov 2006
 
      I managed the maintainance of the company's backend servers, their migration to cloud infrastructure, and developing infrastructure tools support them.
 
-     - **Automated Server Deployment**: *Ansible* was used to deploy new server instances in the backend, as well as keeping the existing ones up-to-date.
+     - **Automated Server Deployment**: *Ansible* was used to deploy new server instances in the cloud, as well as keeping the existing ones up-to-date.
      Git was used to manage all the deployment files organized.
 
      - **Server Monitoring**: The company servers were monitoried using *Icinga 2*.
@@ -49,17 +41,26 @@ May 2013 - Oct 2015
 
      In September 2015 the company changed its name to *MicromaxStudio S.L.*.
 
-Technical Experience
+Open Source
 --------------------
 
 Own projects
 :   In my free time I work in my own projects:
 
     * **Formula Live Results** - Mobile application for *Android* and *iOS* wirtten using *Ionic Framework* wich allowed you to watch live resuls of Formula One races performed in 2015 - [Google Play](https://play.google.com/store/apps/details?id=com.ionicframework.f1liveresultsapp692241)
-    * [VPN Server Managed (not finished)](https://github.com/a-castellano/vpn_per_hours_orchestrator_VPN_SERVER_MANAGER). The aim of this project was to provide VPN fenix servers accros many countries and SAAS providers. Clients were supposed to bay only by the hours that server were up and running. I stopped this development when Netfilx announced that whey where going to ban VPN connection from different countries. I used *C++ 11 (Backend)*, *Python(Scripts)*, *Laravel 5 (frontend)*.
+    * [VPN Server Managed (not finished)](https://github.com/a-castellano/vpn_per_hours_orchestrator_VPN_SERVER_MANAGER). The aim of this project was to provide VPN fenix servers accros many countries and SaaS providers. Clients were supposed to bay only by the hours that server were up and running. I stopped this development when Netfilx announced that whey where going to ban VPN connection from different countries. I used *C++ 11 (Backend)*, *Python(Scripts)*, *Laravel 5 (frontend)*.
     * [nextcloudbackupsawss3](https://github.com/a-castellano/nextcloud_backups_aws_s3). Utility to make backups of Nextcloud and store them into S3 bucket, written in Bash with unit testing.
     * [toggl-jira-work-logger](https://github.com/a-castellano/toggl-jira-work-logger). Utility to log work into Jira issues using Toggl recorded time entries. Written in Perl.
     * [Daedalus project (in progress)](https://github.com/daedalusproject). Daedalus project aims to be a powerfull in interface for managing orchestrated applications and server configuration across multiple SaaS providers.
+
+Education
+---------
+
+2008-2013
+:   **Master in Computer Science Engineering** Universitat Jaume I, Castellón de la Plana - Spain
+
+    *Final project title: Wireless presence control device for students.*
+
 
 Programming Languages
 --------------------
@@ -74,7 +75,7 @@ Programming Languages
       I have used Zend Framework at work. I have used CodeIgniter 2 and Laravel 5 in my own projects.
 
 :   **Perl 5:** 6 months experience.
-      I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalus cores is been written entirely using **Perl Catalyst**.
+      I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalu core its being written entirely using **Perl Catalyst**.
 
 
 :   Basic knowledge of **C++ 11**, **Javascript**
@@ -101,7 +102,7 @@ Balancers
 :   **Haproxy**.
 
 Config Deployer
-:   **SaltStack** and **Andsible**.
+:   **SaltStack** and **Ansible**.
 
 Deployment
 :   **Ansible** and **Capistrano**.
