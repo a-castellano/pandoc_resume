@@ -4,7 +4,7 @@
 Experience
 ----------
 
-Nov 2006 - Present
+Nov 2016 - Present
 :   **IT System Administrator at Onestic S.L.**
 
      I work at IT department, maintaining and deploying Magento (1 & 2) servers. There are around 400 production servers from around 40 different clients. E-commerce support is critical so we must guarantee 99% SLA.
