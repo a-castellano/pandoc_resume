@@ -65,17 +65,17 @@ Education
 Programming Languages
 --------------------
 
-:   **Python:** 7 years exeprience.
+:   **Python:**
      I use Python for almost all mainteinance scripts and when I need to write scripts quickly.
 
 :   **Bash scripting:**
      In many cases I have written bash sripts for monitoring special things such as backups, e-mail monitoring, website changes (before knowing about Icinga),
 
-:   **PHP:** 3 years experience
+:   **PHP:**
       I have used Zend Framework at work. I have used CodeIgniter 2 and Laravel 5 in my own projects.
 
-:   **Perl 5:** 6 months experience.
-      I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalu core its being written entirely using **Perl Catalyst**.
+:   **Perl 5:**.
+      I started with this language solving [Advent of Code 2017](https://github.com/a-castellano/adventofcode2017). Daedalus core its being written entirely using **Perl Catalyst**.
 
 
 :   Basic knowledge of **C++ 11**, **Javascript**
@@ -98,7 +98,7 @@ VCS
 WebServer
 :   **Apache2**, and **Nginx**.
 
-Balancers
+Load balancers
 :   **Haproxy**.
 
 Config Deployer
@@ -108,8 +108,10 @@ Deployment
 :   **Ansible** and **Capistrano**.
 
 Monitoring
-:   **Monit**, **Icinga 2** and **Sensu**.
+:   **Monit**, **Icinga 2**, **Sensu** and **Prometheus****.
 
+Databases:
+:   **MySQL**
 
 Languages
 ----------------------------------------
