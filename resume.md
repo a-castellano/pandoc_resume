@@ -108,7 +108,7 @@ Deployment
 :   **Ansible** and **Capistrano**.
 
 Monitoring
-:   **Monit**, **Icinga 2**, **Sensu** and **Prometheus****.
+:   **Monit**, **Icinga 2**, **Sensu** and **Prometheus**.
 
 Databases:
 :   **MySQL**
