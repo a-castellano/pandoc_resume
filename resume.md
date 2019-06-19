@@ -15,7 +15,7 @@ Nov 2016 - Present
 
      - **Tegnologies and Languages used**: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
 
-Oct 2015 - Nov 2006
+Oct 2015 - Nov 2016
 :   **DevOps at MicromaxStudio S.L.**
 
      I managed the maintainance of the company's backend servers, their migration to cloud infrastructure, and developing infrastructure tools support them.
