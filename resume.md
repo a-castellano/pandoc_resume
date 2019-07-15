@@ -13,7 +13,7 @@ Nov 2016 - Present
 
      - **Improve our tool**. I've contributed to improve SaltStack states and pillar in order to make our projects management more efficient and easier to mantain.
 
-     - **Tegnologies and Languages used**: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
+     - **Technologies and Languages used**: Nginx, Haproxy, Varnish, Sensu, ProFTPd, Keepalived, Pyhton, Bash, etc...
 
 Oct 2015 - Nov 2016
 :   **DevOps at MicromaxStudio S.L.**
